@@ -6,7 +6,7 @@ Because I don't care about the other vim colorschemes.
 #### Using [vundle](https://github.com/gmarik/vundle/) (**recommended!**)
 
     % echo 'Bundle noah/vim256-color' >> ~/.vimrc:
-    % vim +BundleInstall!
+    % vim +VundleInstall!
 
 #### Using [Pathogen](http://www.vim.org/scripts/script.php?script_id=2332)
 
